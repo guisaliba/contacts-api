@@ -1,5 +1,5 @@
-# MyContacts
-> MyContacts is an API built in Node.js and Express.
+# MyContacts API
+> MyContacts API is an API REST built in Node.js and Express.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -14,7 +14,7 @@
 
 ## General Information
 - MyContacts is an API RESTful built in Node.js and Express.
-- This API was built to serve as the backend and database for MyContacts app. You can check it [here].
+- This API was built to serve as the backend and database for MyContacts app. You can check it here.
 - This project was made with research and academic purposes of my own.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -50,7 +50,7 @@ Project is: _complete_
 
 
 ## Acknowledgements
-- This project was based on [Mateus Silva's JStack course.](https://jstack.com.br/).
+- This project was based on Mateus Silva's [JStack course](https://jstack.com.br/).
 - Many thanks to Gabriel Saliba for their help on development stage.
 
 
