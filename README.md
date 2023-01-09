@@ -13,7 +13,7 @@
 
 
 ## General Information
-- MyContacts is an API RESTful built in Node.js and Express.
+- MyContacts is a REST API built in Node.js and Express.
 - This API was built to serve as the backend and database for MyContacts app. You can check it here.
 - This project was made with research and academic purposes of my own.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -26,23 +26,6 @@
 - [Docker](https://www.docker.com/)
 - [PostgreSQL](https://www.postgresql.org/)
 - [Insomnia](https://insomnia.rest/)
-
-
-## Features
-These are some ready features from the API:
-- Operates all CRUD methods.
-- Works with a live PostgreSQL database.
-- Prevents SQL injections and make use of Express Error Handlers.
-
-## Setup
-First be sure to have the following tools installed on your system:
-
-- Any text editor of your preference.
-- Any API Client test framework of your preference.
-- npm (Node Package Manager) or yarn.
-- Docker
-
-After that, just run a yarn command on your terminal.
 
 
 ## Project Status
