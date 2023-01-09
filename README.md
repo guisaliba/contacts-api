@@ -1,5 +1,5 @@
 # MyContacts API
-> MyContacts API is an API REST built in Node.js and Express.
+> MyContacts API is a REST API built in Node.js and Express.
 
 ## Table of Contents
 * [General Info](#general-information)
