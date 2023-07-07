@@ -11,9 +11,8 @@
 
 
 ## General Information
-- MyContacts is a REST API built in Node.js and Express.
-- This API was built to serve as the backend and database for MyContacts app. You can check it here.
-- This project was made with research and academic purposes of my own.
+- This project is a REST API built in Node.js and Express.
+- It serves as the backend for MyContacts application.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
@@ -41,10 +40,3 @@ Created by [@guisaliba](https://github.com/guisaliba) - feel free to contact me!
 
 ## License
 This project is under MIT License. Learn more about it [here](https://https://opensource.org/licenses/MIT)
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
